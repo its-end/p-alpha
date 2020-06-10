@@ -1,0 +1,58 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node shard.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.1.0",
+    "chalk": "^3.0.0",
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.17.1",
+    "figlet": "^1.2.4",
+    "generate-password": "^1.4.2",
+    "humanize-duration": "^3.21.0",
+    "isgd": "^1.1.3",
+    "jimp": "^0.9.3",
+    "lowdb": "^1.0.0",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "node-superfetch": "^0.1.9",
+    "quick.db": "^7.1.1",
+    "random-puppy": "^1.1.0",
+    "simple-youtube-api": "^5.2.1",
+    "superagent": "^5.2.2",
+    "weather-js": "^2.0.0",
+    "node-fetch": "^2.6.0",
+    "request-promise-native": "^1.0.8",
+    "util": "^0.12.1",
+    "vex-tools": "^0.0.7",
+    "ytdl-core": "^2.1.0",
+    "os": "^0.1.1",
+    "discord-anti-spam-tr": "^0.7.4",
+    "parse-ms": "^2.0.0",
+    "ascii-table": "^0.0.9",
+    "opgg-scrape": "^1.0.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/salty-airport"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
